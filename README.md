@@ -1,18 +1,13 @@
-### Hi there 👋
+<!-- 动态打字效果 -->
+<h1 align="center">
+  <a href="https://anzhiy.cn/">
+    <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=腹有诗书气自华.;console.log(%22Hello%EF%BC%8Cworld%22)">
+  </a>
+</h1>
 
-<!--
-**hzleii/hzleii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- 敲代码的图片 -->
+<div align="center" ><img order-radius="100px" src="https://unpkg.zhimg.com/anzhiyu-assets/image/common/github-info/Knock-Code.gif"/></div>
+<br>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
+<!-- 贪吃蛇代码贡献图 -->
+<div align="center"><img src="https://cdn.jsdelivr.net/gh/anzhiyu-c/anzhiyu-c/assets/github-contribution-grid-snake.svg" /></div>
