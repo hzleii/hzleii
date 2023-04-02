@@ -1,7 +1,7 @@
 <!-- 动态打字效果 -->
 <h1 align="center">
   <a href="https://anzhiy.cn/">
-    <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=腹有诗书气自华.;console.log(%22Hello%EF%BC%8Cworld%22)">
+    <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=腹有诗书气自华.">
   </a>
 </h1>
 
@@ -10,4 +10,6 @@
 <br>
 
 <!-- 贪吃蛇代码贡献图 -->
-<div align="center"><img src="https://cdn.jsdelivr.net/gh/anzhiyu-c/anzhiyu-c/assets/github-contribution-grid-snake.svg" /></div>
+<div align="center"><img src="![](https://raw.githubusercontent.com/hzleii/hzleii/main/assets/github-contribution-grid-snake.svg)" /></div>
+
+![](https://raw.githubusercontent.com/hzleii/hzleii/main/assets/github-contribution-grid-snake.svg)
